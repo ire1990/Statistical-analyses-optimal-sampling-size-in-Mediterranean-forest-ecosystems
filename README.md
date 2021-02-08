@@ -12,6 +12,6 @@ We further tested:
 3. Beta-diversity patterns and whether the core of most abundant fungal species is maintained between sites, we evaluated for each pool the species (or abundances-per-species) 
 losses (B) and species gains (C) using the beta-indices (tbi function, Legendre, 2019, Ecology and Evolution). We used one-sample pool per each forest (sample 1) as a reference, and we compared pools with increasing number of samples (sample 3, 6, 10, 15 and 20) to identify species losses and gains.
 
-The results of these analyses are included in : I. Adamo, Y. Pinuela, J.A. Bonet, C. Castaño, J. Martinez de Aragón, J. Parladé, J. Pera J.G. Alday, 2021. Sampling forest soils to describe fungal diversity and composition. Which is the optimal sampling size in mediterranean pure and mixed pine oak forests?, Fungal Biology, https://doi.org/10.1016/j.funbio.2021.01.005
+The results of these analyses are included in : I. Adamo, Y. Pinuela, J.A. Bonet, C. Castaño, J. Martínez de Aragón, J. Parladé, J. Pera J.G. Alday, 2021. Sampling forest soils to describe fungal diversity and composition. Which is the optimal sampling size in mediterranean pure and mixed pine oak forests?, Fungal Biology, https://doi.org/10.1016/j.funbio.2021.01.005
 
 This project has received funding from European's Union H2020 research and innovation programme under Marie Slodowska-Curie grant agreement No 801586.
